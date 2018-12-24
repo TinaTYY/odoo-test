@@ -1,0 +1,168 @@
+.message-container h2 {
+  text-align: left;
+  text-indent: 10px;
+}
+.message-container ul {
+  width: 60%;
+}
+.message-container li {
+  width: 100%;
+  list-style: none;
+  text-align: left;
+}
+.wrap {
+  width: 100%;
+  height: auto;
+  background-color: #e9eef3;
+}
+.el-header {
+  background: url("../../assets/wrapBg.png") no-repeat center;
+  background-size: cover;
+  text-align: center;
+}
+#mesHade {
+  width: 1000px;
+  height: 120px !important;
+  margin: auto;
+}
+.telData {
+  width: 100%;
+  line-height: 130px;
+  text-align: right;
+}
+.telData {
+  width: 100%;
+  line-height: 155px;
+  text-align: right;
+}
+.message-container {
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  background: white;
+}
+.message-container .el-input,
+.el-select {
+  display: inline-block;
+  height: 47px;
+  width: 85%;
+}
+#cityData .el-select {
+  width: 28%;
+}
+#cityData .el-input {
+  width: 78%;
+}
+#brand {
+  margin: auto;
+}
+#brand .el-input {
+  width: 70%;
+}
+.message-container input {
+  background: transparent;
+  border: 0px;
+  -webkit-appearance: none;
+  border-radius: 0px;
+  padding: 12px 5px 12px 15px;
+  height: 47px;
+}
+span {
+  display: inline-block;
+}
+.hint {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+.kaihu {
+  width: 15%;
+}
+.txtList {
+  width: 40%;
+}
+.message-container i {
+  color: red;
+}
+#bankVouchersUrl,#licenceImg{
+  text-align: left;
+}
+#licenceImg .uploadK{
+  width: 53%;
+  text-align: center;
+}
+#bankVouchersUrl .uploadK{
+  text-align: left;
+  margin-left: 40px;
+}
+#bankVouchersUrl .el-form-item__label {
+  display: inline-block;
+}
+#Successshou .uploadK{
+  text-align: center;
+  width:55%;
+}
+.uploadK {
+  display: inline-block;
+}
+.cut {
+  width: 24%;
+}
+.el-form-item {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  color: #454545;
+}
+#btn {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+}
+.tishi {
+  width: 34%;
+  float: right;
+}
+#newList {
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px;
+}
+#newList span {
+  display: inline-block;
+  width: 10%;
+}
+.newlistData {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 90%;
+}
+.newlistData div {
+  width: 22%;
+}
+.newListImg{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #454545;
+}
+#radioList {
+  width: 98%;
+}
+.brandName{
+  width: 63%;
+}
+.brandNames{
+  width: 87%;
+}
+#pagination{
+  width: 100%;
+  margin-top: 20px;
+  overflow: hidden;
+}
+#xinjian .el-input{
+  width: 70%;
+}
+#xinjian .el-select{
+  width: 60%;
+}

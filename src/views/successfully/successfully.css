@@ -1,0 +1,49 @@
+#succssMain ul{
+    margin-top: 50px;
+}
+#succssMain li{
+    list-style: none;
+    text-align: left;
+    margin-top: 20px;
+}
+#succssMain h2{
+    height: 10px; 
+}
+.wrap{
+    height:1000px;
+    background-color: #E9EEF3;
+}
+.el-header{
+    background: url('../../assets/wrapBg.png') no-repeat center;
+    background-size: cover;
+    text-align: center;
+  }
+#mesHade{
+    width: 1000px;
+    height: 120px !important;
+    margin:auto;
+}
+#succssMain{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    background: white;
+}
+.sussList{
+    display: flex;
+    flex-direction: column;
+}
+.sussList div{
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+}
+.cist{
+    line-height:300px;
+}
+.sussList img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #eee;
+    margin-top: 56px;
+}
